@@ -15,3 +15,11 @@
  - Create a package using npm init -y
  - Install express package https://www.npmjs.com/package/express
  - Install file system package https://www.npmjs.com/kagefile-system     
+
+ * License
+ MIT
+ 
+* Conact information 
+ - Name: Ramya Mariyala
+ - Email : ramya.mariyala@gmail.com
+ - Github[https://github.com/Ramyamariyala/workoutTracker.git]
