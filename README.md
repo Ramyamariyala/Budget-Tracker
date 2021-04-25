@@ -22,4 +22,4 @@
 * Conact information 
  - Name: Ramya Mariyala
  - Email : ramya.mariyala@gmail.com
- - Github[https://github.com/Ramyamariyala/workoutTracker.git]
+ - Github[https://github.com/Ramyamariyala/Budget-Tracker.git]
