@@ -9,4 +9,9 @@
   - Licenses
   - Contact information.
 
-     
+* Links
+* Technology used
+ - Visual Studio Code https://code.visualstudio.com
+ - Create a package using npm init -y
+ - Install express package https://www.npmjs.com/package/express
+ - Install file system package https://www.npmjs.com/kagefile-system     
