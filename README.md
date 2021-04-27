@@ -29,4 +29,4 @@
 * Conact information 
  - Name: Ramya Mariyala
  - Email : ramya.mariyala@gmail.com
- - Github[https://github.com/Ramyamariyala/Budget-Tracker.git]
+ - [Github](https://github.com/Ramyamariyala/Budget-Tracker.git)
