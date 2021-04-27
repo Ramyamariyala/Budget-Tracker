@@ -13,7 +13,8 @@
  - [Github](https://github.com/Ramyamariyala/Budget-Tracker.git)
  - [heroku](https://rocky-gorge-04638.herokuapp.com/)
 
- - [Demo](public\assests\Budget tracker.gif)
+ 
+ ![Demo](public/assests/Budget.gif)
 
 
 * Technology used
